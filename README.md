@@ -17,7 +17,7 @@ This project applies concepts from the following IBM Data Science courses:
 * **Machine Learning with Scikit-Learn**: Building `Random Forest` models, `Confusion Matrix`, and `Feature Importance` analysis.
 
 ## Key Insights & Visualizations (分析成果)
-*(建議這裡放一兩張你跑出來的圖，例如那個雷達圖或是特徵重要性的長條圖)*
+
 
 * **Feature Importance**: We found that **Duration** and **Director** have a higher impact on popularity than Genre alone.
 * **Content DNA**: High-rated shows tend to cluster around specific genres like *Documentaries* and *History*, while generic *Action* movies have lower average scores.
