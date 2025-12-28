@@ -1,0 +1,19 @@
+# --- Python 基本垃圾 ---
+__pycache__/
+*.pyc
+
+# --- Jupyter Notebook 暫存檔 (Colab 用戶最需要這個) ---
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# --- 作業系統垃圾 ---
+.DS_Store
+Thumbs.db
+
+# --- 虛擬環境 (如果未來你在本地做) ---
+env/
+venv/
+
+# --- 大型數據 (選用) ---
+# 如果你的 csv 超過 100MB，可以把下面這行的 # 拿掉
+# *.csv
