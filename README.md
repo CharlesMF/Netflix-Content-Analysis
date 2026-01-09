@@ -1,4 +1,4 @@
-#  Netflix & Disney+ Content Strategy Analysis
+#  Netflix  Content Strategy Analysis
 > **Term Project**: Analysis of content distribution and popularity prediction using Random Forest.
 
 ## Project Overview (專案簡介)
